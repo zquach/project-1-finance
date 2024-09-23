@@ -13,3 +13,5 @@ Instructions:
 3. Remove and rename columns
 4. Merge the dataframes together
 5. Create graphs to review trends
+
+Powerpoint: https://docs.google.com/presentation/d/1VrUOFX2y4Z1t84o86QvgyJFPWUsBziRMN9YCt1yjUvE/edit?usp=sharing
