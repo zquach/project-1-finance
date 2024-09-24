@@ -15,3 +15,7 @@ Instructions:
 5. Create graphs to review trends
 
 Powerpoint: https://docs.google.com/presentation/d/1VrUOFX2y4Z1t84o86QvgyJFPWUsBziRMN9YCt1yjUvE/edit?usp=sharing
+
+Resources:
+1. S&P 500 Stocks (daily updated): https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?resource=download
+2. Bitcoin & Ethereum prices (2014-2024): https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-ethereum-prices-from-start-to-2023
